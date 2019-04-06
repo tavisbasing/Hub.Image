@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+	<PackageId>Hub.Image.Generator</PackageId>
+<Version>1.0.2</Version>
+<Authors>Tavis Basing</Authors>
+<Company>Tavis Basing</Company>
+<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>

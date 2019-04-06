@@ -2,7 +2,7 @@
 
 namespace Image.Hub
 {
-    public class Class1
+    public class Helper
     {
     }
 }
